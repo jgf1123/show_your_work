@@ -1,0 +1,9 @@
+jupyterlab
+ipywidgets
+solara
+anywidget
+panel
+gradio
+streamlit
+fast-dash
+gunicorn
