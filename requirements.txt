@@ -1,5 +1,6 @@
 jupyterlab
 ipywidgets
+voila
 solara
 anywidget
 panel
@@ -7,3 +8,7 @@ gradio
 streamlit
 fast-dash
 gunicorn
+matplotlib
+seaborn
+pandas
+numpy
