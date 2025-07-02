@@ -1,9 +1,5 @@
-jupyterlab
 ipywidgets
 voila
-solara
-anywidget
-panel
 gradio
 streamlit
 fast-dash
@@ -12,3 +8,4 @@ matplotlib
 seaborn
 pandas
 numpy
+jupyterlab
